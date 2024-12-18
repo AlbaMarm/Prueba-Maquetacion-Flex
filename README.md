@@ -16,8 +16,8 @@ La página cuenta con un encabezado, un menu de navegación, un área principal 
 ## ✧ Técnicas Flexbox ✧
 - Contenedor: 
 	- `display: flex`.
-	- `flex-direction - alineación`.
-	- `gap - espacios`.
+	- `flex-direction` - alineación.
+	- `gap` - espacios.
 	
 - Elementos hijos:
 	- `flex: 1` - distribución uniforme. 

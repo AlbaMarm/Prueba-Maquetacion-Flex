@@ -15,11 +15,11 @@ La página cuenta con un encabezado, un menu de navegación, un área principal 
 
 ## ✧ Técnicas Flexbox ✧
 - Contenedor: 
-	-  display: flex.
-	- flex-direction - alineación.
-	- gap - espacios.
+	- `display: flex`.
+	- `flex-direction - alineación`.
+	- `gap - espacios`.
 	
 - Elementos hijos:
-	- flex: 1 - distribución uniforme. 
-	- align-items y justify-content: espaciar y centrar.
+	- `flex: 1` - distribución uniforme. 
+	- `align-items` y `justify-content`: espaciar y centrar.
 ### Autor/a: AlbaMarm 2024.
